@@ -1,0 +1,10 @@
+.productList{
+display: flex;
+flex-direction: column;
+background-color: aqua;
+justify-content: center;
+padding: 5px;
+gap: 10px;
+width:40%;
+ margin: 0 auto;
+}
