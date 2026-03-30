@@ -1,0 +1,12 @@
+.product{
+    border:1px solid black;
+    background-color:yellow;
+    display:flex;
+    width:90%;
+    height:auto;
+    padding:5px;
+    margin:10px;
+    justify-content:space-around;
+    align-items:center;
+    color:red
+}
